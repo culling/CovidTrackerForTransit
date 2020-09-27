@@ -1,6 +1,12 @@
 # COVID Tracker For Transit
 Project completed as part of *Summer of Tech - Create Camp Hackathon 2020 Wellington*
 
+# Current Status
+The COVID app and public transport now have features to allow tracking of transit and notifications. We don't know if our app ideas were the cause of the change but the inclusion of these features in the officaial COVID app was the overall aim for the project.
+
+No further development will continue on the app for the foreseeable future.
+
+
 # Team - Won Direction
 
 ![covidtrackerfortransit on GitHub](docs/Team-Picture.png)
@@ -47,7 +53,7 @@ In this stage the saving and loading of data is central. Trips use the Metlink A
 + The vehicle they are traveling on is uniquely identified
 
 
-### Stage 2 (In Development)
+### Stage 2 
 + Notifications of online users when someone with a shared trip has tested positive
 + Registration numbers can be added for tracking ridesharing
 + Additional information can be kept with the trip to include notes - e.g. traveling with three children without mobile phones
